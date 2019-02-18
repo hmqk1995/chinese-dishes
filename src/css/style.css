@@ -14,12 +14,12 @@ body {
     margin: 40px 0;
 }
 
-h1.ui.header, 
-h2.ui.header, 
-h3.ui.header, 
-h4.ui.header, 
-h5.ui.header, 
-h6.ui.header {
+.main h1.ui.header, 
+.main h2.ui.header, 
+.main h3.ui.header, 
+.main h4.ui.header, 
+.main h5.ui.header, 
+.main h6.ui.header {
     color: white;
     font-weight: 100;
 }

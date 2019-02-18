@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hmqk1995/chinese-dishes/issues"
   },
-  "homepage": "https://github.com/hmqk1995/chinese-dishes#readme"
+  "homepage": "https://github.com/hmqk1995/chinese-dishes#readme",
+  "dependencies": {
+    "semantic-ui": "^2.4.2"
+  }
 }

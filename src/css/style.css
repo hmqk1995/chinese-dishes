@@ -2,7 +2,7 @@
     color: #ffe1e1;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c60000+0,720404+100 */
     background: #c60000; /* Old browsers */
-    background: linear-gradient(135deg, #c60000 0%,#840303ba 100%), url('../img/bg.png'); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: linear-gradient(135deg, #c60000 0%,#840303cc 100%), url('../img/bg.png'); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     background-size: contain;
 }
 
@@ -17,10 +17,15 @@ h4.ui.header,
 h5.ui.header, 
 h6.ui.header {
     color: white;
+    font-weight: 100;
 }
 
 .bg-icon-box {
     height: auto;
     fill: currentColor;
     fill-opacity: 0.95;
+}
+
+.dishes.ui .horizontal {
+    margin: 4rem;
 }

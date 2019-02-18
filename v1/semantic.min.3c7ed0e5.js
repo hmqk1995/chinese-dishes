@@ -9230,7 +9230,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "53846" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54877" + '/');
 
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);
@@ -9373,4 +9373,4 @@ function hmrAccept(bundle, id) {
   });
 }
 },{}]},{},["../../.nvm/versions/node/v10.14.1/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","../semantic/dist/semantic.min.js"], null)
-//# sourceMappingURL=/semantic.min.3c7ed0e5.map
+//# sourceMappingURL=v1/semantic.min.3c7ed0e5.map

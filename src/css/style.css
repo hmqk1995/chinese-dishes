@@ -8,6 +8,7 @@ body {
     background: #c60000; /* Old browsers */
     background: linear-gradient(135deg, #c60000 0%,#840303cc 100%), url('../img/bg.png'); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     background-size: contain;
+    background-attachment: fixed;
 }
 
 .main .row {

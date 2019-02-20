@@ -24,6 +24,10 @@ body {
     font-weight: 100;
 }
 
+.main h2.ui.header {
+    color: #ffb86f;
+}
+
 .bg-icon-box {
     height: auto;
     fill: currentColor;
